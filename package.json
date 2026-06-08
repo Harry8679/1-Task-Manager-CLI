@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Harry8679/1-Task-Manager-CLI/issues"
   },
-  "homepage": "https://github.com/Harry8679/1-Task-Manager-CLI#readme"
+  "homepage": "https://github.com/Harry8679/1-Task-Manager-CLI#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
 }
